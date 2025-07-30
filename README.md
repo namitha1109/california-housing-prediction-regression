@@ -2,6 +2,11 @@
 
 This project builds a linear regression model using the California Housing dataset to predict house prices.
 
+Click the badge below to try the live Streamlit app:
+
+ [![View on Streamlit](https://img.shields.io/badge/Streamlit-App-green?logo=streamlit)](https://california-housing-prediction-regression-chpw6refryrsn5ygxze5a.streamlit.app/)
+
+
 ## Features
 - Uses `LinearRegression` from `scikit-learn`
 - Deployed using `Streamlit`
